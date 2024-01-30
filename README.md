@@ -1,1 +1,1 @@
-Please file only technical PRs.
+This is a mirror of my local git repository.
